@@ -10,7 +10,7 @@ I'm Wasit Ali and this is my 2nd project on HTML and CSS.
 ![](./assets/2022-08-10-21-48-10.png)
 `note:` please make sure the preview screen is `1920 x 1080` and the web site is not responsive.
 
-🚀 [Live Preview]([https://leafy-hotteok-6e845d.netlify.app/](https://live-class-project-02-eight.vercel.app/))
+🚀 [Live Preview](https://leafy-hotteok-6e845d.netlify.app/](https://live-class-project-02-eight.vercel.app/)
 
 ## 🛠️ What I have learned in this project?
 
